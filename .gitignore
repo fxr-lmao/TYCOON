@@ -1,0 +1,11 @@
+# Godot 4 editor cache. Regenerated on open; never commit it.
+.godot/
+
+# Export settings can carry signing details and machine-local paths.
+export_presets.cfg
+
+# NOTE: *.import files ARE committed on purpose. Removing them makes every
+# pull trigger a full reimport of every asset.
+
+.DS_Store
+*.tmp
